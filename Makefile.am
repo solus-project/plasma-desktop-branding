@@ -1,0 +1,3 @@
+SUBDIRS = \
+	sddm \
+	xdg

@@ -1,0 +1,12 @@
+[General]
+ColorScheme=Breeze
+Name=Breeze
+
+[Icons]
+Theme=breeze
+
+[KDE]
+ChangeCursor=true
+LookAndFeelPackage=org.kde.breeze.desktop
+contrast=4
+widgetStyle=breeze
