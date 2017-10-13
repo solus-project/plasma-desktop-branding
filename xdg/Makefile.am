@@ -4,6 +4,7 @@ EXTRA_DIST = \
 	kcminputrc \
 	kded5rc \
 	kdeglobals \
+	ksplashrc \
 	plasmarc
 
 xdgdir = $(datadir)/xdg
@@ -13,4 +14,5 @@ xdg_DATA = \
 	kcminputrc \
 	kded5rc \
 	kdeglobals \
+	ksplashrc \
 	plasmarc
