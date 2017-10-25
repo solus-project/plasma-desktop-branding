@@ -1,3 +1,4 @@
 SUBDIRS = \
+	env \
 	sddm \
 	xdg
