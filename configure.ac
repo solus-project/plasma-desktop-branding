@@ -3,6 +3,7 @@ AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects 1
 AC_PREFIX_DEFAULT(/usr/local)
 
 AC_CONFIG_FILES([Makefile
+                env/Makefile
                 sddm/Makefile
                 xdg/Makefile])
 AC_OUTPUT
