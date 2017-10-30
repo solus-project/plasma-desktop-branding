@@ -1,6 +1,6 @@
 EXTRA_DIST = \
-	10-qpaplatform.sh
+	50-qtlogging.sh
 
 envdir = $(datadir)/xdg/plasma-workspace/env
 env_DATA = \
-	10-qpaplatform.sh
+	50-qtlogging.sh
