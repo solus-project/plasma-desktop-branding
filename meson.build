@@ -13,6 +13,7 @@ project(
 
 path_prefix = get_option('prefix')
 path_datadir = join_paths(path_prefix, get_option('datadir'))
+path_konsoledir = join_paths(path_datadir, 'konsole')
 
 # Solusism
 path_envdir = get_option('with-profile-dir')
@@ -21,8 +22,9 @@ if path_envdir == ''
 endif
 
 subdir('env')
-subdir('xdg')
+subdir('konsole')
 subdir('sddm')
+subdir('xdg')
 
 report = [
     '    Build configuration:',

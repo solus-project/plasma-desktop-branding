@@ -5,6 +5,8 @@ xdg_data = [
     'kcminputrc',
     'kded5rc',
     'kdeglobals',
+    'konsolerc',
+    'kscreenlockerrc',
     'ksplashrc',
     'kwinrc',
     'plasmarc',
