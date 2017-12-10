@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=WhiteOnBlack
+ColorScheme=Breeze
 Font=monospace,10.5,-1,2,50,0,0,0,0,0,Regular
 
 [General]

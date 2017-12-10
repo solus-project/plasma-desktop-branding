@@ -1,5 +1,6 @@
 xdg_data = [
     'baloofilerc',
+    'breezerc',
     'katepartrc',
     'kcm-about-distrorc',
     'kcminputrc',

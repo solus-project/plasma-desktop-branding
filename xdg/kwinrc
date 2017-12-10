@@ -2,4 +2,4 @@
 kwin4_effect_loginEnabled=false
 
 [org.kde.kdecoration2]
-BorderSize=Tiny
+BorderSize=None
