@@ -4,6 +4,6 @@ This package is to be used for the default configuration of elements within the 
 
 ## License
 
-Copyright © 2017 Solus Project
+Copyright © 2017-2018 Solus Project
 
 GPL-2.0
