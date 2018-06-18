@@ -1,9 +1,0 @@
-[Desktop Entry]
-DefaultProfile=solus.profile
-
-[KonsoleWindow]
-ShowMenuBarByDefault=false
-
-[TabBar]
-ShowQuickButtons=true
-TabBarVisibility=ShowTabBarWhenNeeded
