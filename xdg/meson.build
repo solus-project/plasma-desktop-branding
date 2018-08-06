@@ -8,7 +8,9 @@ xdg_data = [
     'kdeglobals',
     'ksplashrc',
     'kwinrc',
+    'kwinrulesrc',
     'plasmarc',
+    'spectaclerc',
     'touchpadrc',
 ]
 

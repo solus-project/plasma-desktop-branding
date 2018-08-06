@@ -1,0 +1,7 @@
+[1]
+Description=qemu-system-x86_64
+blockcompositing=false
+blockcompositingrule=2
+wmclass=qemu-system-x86_64
+wmclasscomplete=false
+wmclassmatch=2
