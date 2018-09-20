@@ -1,1 +1,1 @@
-option('with-profile-dir', description: 'Profile directory', type: 'string')
+option('with-env-dir', description: 'Plasma Workspace env directory', type: 'string')

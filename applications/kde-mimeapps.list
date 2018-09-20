@@ -1,0 +1,6 @@
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+text/html=firefox.desktop;
+text/plain=org.kde.kate.desktop;org.kde.kwrite.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;

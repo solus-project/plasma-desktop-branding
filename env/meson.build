@@ -1,4 +1,4 @@
 install_data(
-    '50-qtlogging.sh',
+    '50-ssh.sh',
     install_dir: path_envdir,
 )

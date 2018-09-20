@@ -1,2 +1,5 @@
 [Theme]
 name=breeze-dark
+
+[Units]
+longDuration=85
