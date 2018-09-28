@@ -6,6 +6,7 @@ xdg_data = [
     'kcminputrc',
     'kded5rc',
     'kdeglobals',
+    'klipperrc',
     'ksplashrc',
     'kwinrc',
     'kwinrulesrc',
